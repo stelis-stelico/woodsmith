@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #02AE70;
+}
+.feature {
+    background-image: url(images/uni-image.jpeg);
+}
+.header {
+    color: #016855;
+}
+.welcome {
+    background-color: #016855;
+}
+.admissions {
+    background-color: #02AE70;
+    color: #016855;
+}
+.apply-btn {
+    background-color: #016855;
+    color: #90D7BD;
+    border-style: none;
+    text-decoration: none;
+}
+.apply-btn:hover {
+    background-color: #02AE70;
+    color: #016855;
+    border-style: solid;
+    border-width: thin;
+}
