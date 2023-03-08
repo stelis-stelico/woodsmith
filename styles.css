@@ -1,27 +1,33 @@
 .navbar {
-    background-color: #E0FD2C;
+    background-color: white;
 }
 .feature {
     background-image: url(images/download.png);
 }
 .header {
-    color: #E0FD2C;
+    color: white;
 }
 .welcome {
     background-color: #035772;
 }
 .admissions {
-    background-color: #E0FD2C;
+    background-color: white;
     color: #035772;
 }
 .apply-btn {
     background-color: #035772;
-    color: #E0FD2C;
+    color: white;
     border-style: none;
     text-decoration: none;
 }
 .apply-btn:hover {
-    color: white;
+    color: #035772;
     border-style: solid;
     border-width: thin;
+    background: transparent;
+    border-color: #035772;
+}
+.form {
+    background-color: #035772;
+    color: white;
 }
