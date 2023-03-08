@@ -1,28 +1,27 @@
 .navbar {
-    background-color: #02AE70;
+    background-color: #E0FD2C;
 }
 .feature {
-    background-image: url(images/uni-image.jpeg);
+    background-image: url(images/download.png);
 }
 .header {
-    color: #016855;
+    color: #E0FD2C;
 }
 .welcome {
-    background-color: #016855;
+    background-color: #035772;
 }
 .admissions {
-    background-color: #02AE70;
-    color: #016855;
+    background-color: #E0FD2C;
+    color: #035772;
 }
 .apply-btn {
-    background-color: #016855;
-    color: #90D7BD;
+    background-color: #035772;
+    color: #E0FD2C;
     border-style: none;
     text-decoration: none;
 }
 .apply-btn:hover {
-    background-color: #02AE70;
-    color: #016855;
+    color: white;
     border-style: solid;
     border-width: thin;
 }
